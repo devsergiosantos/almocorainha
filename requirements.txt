@@ -2,4 +2,6 @@ streamlit
 pymongo
 dnspython
 pandas
+pip install streamlit-autorefresh
+
 fpdf2
